@@ -1,6 +1,7 @@
 {
   "name": "sglitowitzsoci/soci-psalm-no-string-concatenation",
   "description": "SOCi Psalm Rule, no string concatenation",
+  "version": "0.0.1-alpha",
   "type": "psalm-plugin",
   "authors": [
     {
