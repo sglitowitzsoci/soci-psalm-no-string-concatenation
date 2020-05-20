@@ -1,6 +1,6 @@
 {
-  "name": "soci/soci-psalm-prefer-complex-string-interpolation",
-  "description": "SOCi Psalm Rule, prefer complex string interpolation",
+  "name": "sglitowitzsoci/soci-psalm-no-string-concatenation",
+  "description": "SOCi Psalm Rule, no string concatenation",
   "type": "psalm-plugin",
   "authors": [
     {
